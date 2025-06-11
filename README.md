@@ -1,5 +1,7 @@
 # NOD (Nurlan’s Own Development)
 
+NOD-Nurlan-Own-Development
+
 # 👋 Hey there! I'm Nurlan Bedirkhanov
 
 I'm a mobile developer from Baku 🇦🇿 with 3+ years of experience building Android and iOS applications.  
@@ -49,3 +51,15 @@ Founder of:
 ---
 
 > ⚡ *“I don’t just write code — I build digital products that move the market forward.”*
+nod  
+nurlan  
+mobile-development  
+android  
+ios  
+swiftui  
+kotlin  
+firebase  
+ilnod  
+personal-project  
+startup  
+nurlan badirkhanli
